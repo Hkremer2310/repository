@@ -1,0 +1,33 @@
+#header {
+  background-color: pink;
+  text-align: center;
+  height: 100px;
+}
+
+#col1 {
+  float: left;
+  width: 50%;
+  background-color: purple;
+  height: 500px;
+
+}
+
+#col2 {
+  float: right;
+  width: 50%;
+  background-color: aquamarine;
+  height: 500px;
+
+  }
+
+.photo1 {
+  border-radius: 50%;
+  align: center;
+}
+
+#footer {
+  background-color: lightblue;
+  clear: both;
+  height: 50px;
+  text-align: center;
+}
